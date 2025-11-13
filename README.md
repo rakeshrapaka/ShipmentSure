@@ -1,6 +1,6 @@
 Goal: Build a reproducible pipeline that predicts shipment risk (delay / damage / loss / customs hold) and returns a probability + color-coded risk signal (Green / Orange / Red) with a small demo UI for users to input shipment details and receive a risk score.
 
-
+--
 shipmentsure/
 ├─ data/
 │  ├─ raw/                # original datasets (shipment logs, carriers, weather, etc.)
@@ -23,3 +23,4 @@ shipmentsure/
 ├─ requirements.txt
 ├─ README.md
 └─ LICENSE
+--
